@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled JavaScript
+dist/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+logs/
+
+# Build artifacts
+build/
+out/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Editor backup files
+*~
+*.swp
+
+# Mac OS files
+.DS_Store
+
+# Windows files
+Thumbs.db
